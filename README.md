@@ -2,3 +2,5 @@
 полезные сайты:
 acmp.ru
 leetcode.com
+codeforces.com
+hackerrank.com
